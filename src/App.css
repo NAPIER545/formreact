@@ -1,0 +1,13 @@
+
+.component-maxwidth{max-width: 33vw;}
+
+.formcomponents-centered{margin-left: 33vw; margin-right: 33vw;}
+
+.text-alligned{text-align: center;}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
